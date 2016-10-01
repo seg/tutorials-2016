@@ -24,44 +24,38 @@ def display_cm(cm, labels, hide_zeros=False,
     columnwidth = max([len(x) for x in labels]+[5]) # 5 is value length
     empty_cell = " " * columnwidth
     # Print header
-    print "    " + " Pred",
+    print("    " + " Pred", end=' ')
     for label in labels: 
-        print "%{0}s".format(columnwidth) % label,
-    print "%{0}s".format(columnwidth) % 'Total'
-    print
-    print "    " + " True"
+        print("%{0}s".format(columnwidth) % label, end=' ')
+    print("%{0}s".format(columnwidth) % 'Total')
+    print("    " + " True")
     # Print rows
     for i, label1 in enumerate(labels):
-        print "    %{0}s".format(columnwidth) % label1,
+        print("    %{0}s".format(columnwidth) % label1, end=' ')
         for j in range(len(labels)): 
             cell = "%{0}d".format(columnwidth) % cm[i, j]
             if hide_zeros:
                 cell = cell if float(cm[i, j]) != 0 else empty_cell
-            print cell,
-        print "%{0}d".format(columnwidth) % sum(cm[i,:])
-        
-        print
+            print(cell, end=' ')
+        print("%{0}d".format(columnwidth) % sum(cm[i,:]))
         
     if display_metrics:
-        print
-        print "Precision",
+        print()
+        print("Precision", end=' ')
         for j in range(len(labels)):
             cell = "%{0}.2f".format(columnwidth) % precision[j]
-            print cell,
-        print "%{0}.2f".format(columnwidth) % total_precision
-        print
-        print "   Recall",
+            print(cell, end=' ')
+        print("%{0}.2f".format(columnwidth) % total_precision)
+        print("   Recall", end=' ')
         for j in range(len(labels)):
             cell = "%{0}.2f".format(columnwidth) % recall[j]
-            print cell,
-        print "%{0}.2f".format(columnwidth) % total_recall
-        print
-        print "       F1",
+            print(cell, end=' ')
+        print("%{0}.2f".format(columnwidth) % total_recall)
+        print("       F1", end=' ')
         for j in range(len(labels)):
             cell = "%{0}.2f".format(columnwidth) % F1[j]
-            print cell,
-        print "%{0}.2f".format(columnwidth) % total_F1
-        print
+            print(cell, end=' ')
+        print("%{0}.2f".format(columnwidth) % total_F1)
     
                   
 def display_adj_cm(
