@@ -21,7 +21,7 @@ These are [Jupyter Notebooks](https://jupyter.org/). They can be opened and read
 - [Jupyter Notebooks](https://github.com/seg/tutorials-2016/blob/master/1608_Finite_volume) &mdash; various Jupyter Notebooks and images
 
 ## October 2016
-- [Facies classification using machine learning](http://library.seg.org/doi/abs/10.1190/tle35100936.1) by Brendon Hall
+- [Facies classification using machine learning](http://library.seg.org/doi/abs/10.1190/tle35100906.1) by Brendon Hall
 - [Jupyter Notebook and data](https://github.com/seg/tutorials-2016/blob/master/1610_Facies_classification)
 - [Machine learning contest](https://github.com/seg/2016-ml-contest) &mdash; a fun contest for everyone
 
