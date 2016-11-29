@@ -25,3 +25,7 @@ These are [Jupyter Notebooks](https://jupyter.org/). They can be opened and read
 - [Jupyter Notebook and data](https://github.com/seg/tutorials-2016/blob/master/1610_Facies_classification)
 - [Machine learning contest](https://github.com/seg/2016-ml-contest) &mdash; a fun contest for everyone
 
+## December 2016
+- [Linear inversion](http://library.seg.org/toc/leedff/35/12)
+- [Jupyter Notebooks](https://github.com/seg/tutorials-2016/blob/master/1612_Linear_inversion) &mdash; in Python, Julia, R, and Torch!
+
