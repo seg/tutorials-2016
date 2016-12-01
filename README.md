@@ -1,8 +1,12 @@
 # tutorials-2016
 
-Tutorials from The Leading Edge column, which started in February 2014.
+Tutorials from [The Leading Edge](http://library.seg.org/journal/leedff) column, which started in February 2014.
 
-These are [Jupyter Notebooks](https://jupyter.org/). They can be opened and read right here in GitHub, or you can install the Notebook software (e.g. with **pip install 'ipython[all]'**), clone this repo, and start a notebook server in the base *tutorials* directory. Questions? [Get in touch!](mailto:matt@agilegeoscience.com)
+These are [Jupyter Notebooks](https://jupyter.org/). They can be opened and read (but not actually run) right here in GitHub, or you can install the Notebook software (e.g. with **`conda install jupyter`**), then clone this repo, and start a notebook server in the *tutorials-2016* directory.
+
+For more in-depth hints on getting started, see Hall, M (2016). A user guide to the geophysical tutorials. _The Leading Edge_ **35** (2), 190–191, doi: [10.1190/tle35020190.1](http://library.seg.org/doi/abs/10.1190/tle35020190.1).
+
+Questions? [Get in touch!](mailto:matt@agilegeoscience.com)
 
 ## February 2016
 - [A user guide to the geophysical tutorials](http://library.seg.org/doi/abs/10.1190/tle35020190.1) by Matt Hall
@@ -29,3 +33,6 @@ These are [Jupyter Notebooks](https://jupyter.org/). They can be opened and read
 - [Linear inversion](http://library.seg.org/toc/leedff/35/12)
 - [Jupyter Notebooks](https://github.com/seg/tutorials-2016/blob/master/1612_Linear_inversion) &mdash; in Python, Julia, R, and Torch!
 
+<hr />
+
+The content of the articles and of the notebooks is © the author(s) and openly licensed CC-BY. The code is © the author(s) and openly licensed under the terms of the Apache License 2, or under the terms specified by the author, if any.
