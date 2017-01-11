@@ -1,7 +1,6 @@
-#!/usr/bin/env python
 # -*- coding: utf 8 -*-
 """
-Functions for importing Canstrat ASCII files.
+Functions for helping with plots.
 
 :copyright: 2016 Agile Geoscience
 :license: Apache 2.0
