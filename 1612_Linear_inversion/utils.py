@@ -105,7 +105,7 @@ def plot_two(m, d, m_est, d_pred, equalize=True):
             if isinstance(child, spines.Spine):
                 child.set_color('#aaaaaa')
 
-    plt.savefig('figures/figure2.png', dpi=200, facecolor=fig.get_facecolor())
+    plt.savefig('manuscript/figure2.png', dpi=200, facecolor=fig.get_facecolor())
     plt.show()
 
 
@@ -236,7 +236,7 @@ def plot_gmd(G, m, d):
     cax.tick_params(axis='x', colors='#ffffff')
 
     fig.tight_layout()
-    plt.savefig("figures/figure1.png", dpi=200, facecolor=fig.get_facecolor())
+    plt.savefig("manuscript/figure1.png", dpi=200, facecolor=fig.get_facecolor())
     plt.show()
 
     return
