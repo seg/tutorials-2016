@@ -30,9 +30,9 @@ Questions? [Get in touch!](mailto:matt@agilegeoscience.com)
 - [Machine learning contest](https://github.com/seg/2016-ml-contest) &mdash; a fun contest for everyone
 
 ## December 2016
-- [Linear inversion](http://library.seg.org/toc/leedff/35/12)
+- [Linear inversion](http://library.seg.org/doi/abs/10.1190/tle35121085.1) by Matt Hall
 - [Jupyter Notebooks](https://github.com/seg/tutorials-2016/blob/master/1612_Linear_inversion) &mdash; in Python, Julia, R, and Torch!
 
 <hr />
 
-The content of the articles and of the notebooks is © the author(s) and openly licensed CC-BY. The code is © the author(s) and openly licensed under the terms of the Apache License 2, or under the terms specified by the author, if any.
+The content of the articles and of the notebooks is © the author(s) and openly licensed [CC-BY](https://creativecommons.org/licenses/by/3.0/). The code is © the author(s) and openly licensed under the terms of the Apache License 2, or under the terms specified by the author, if any.
