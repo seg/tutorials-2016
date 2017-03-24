@@ -35,4 +35,4 @@ Questions? [Get in touch!](mailto:matt@agilegeoscience.com)
 
 <hr />
 
-The content of the articles and of the notebooks is © the author(s) and openly licensed [CC-BY](https://creativecommons.org/licenses/by/3.0/). The code is © the author(s) and openly licensed under the terms of the Apache License 2, or under the terms specified by the author, if any.
+The content of the articles and of the notebooks is © the author(s) and openly licensed [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/). The code is © the author(s) and openly licensed under the terms of the Apache License 2, or under the terms specified by the author, if any.
