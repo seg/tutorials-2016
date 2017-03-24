@@ -1,6 +1,6 @@
 # tutorials-2016
 
-Tutorials from [The Leading Edge](http://library.seg.org/journal/leedff) column, which started in February 2014.
+Tutorials from [The Leading Edge](http://library.seg.org/journal/leedff) column, which started in February 2014. 
 
 These are [Jupyter Notebooks](https://jupyter.org/). They can be opened and read (but not actually run) right here in GitHub, or you can install the Notebook software (e.g. with **`conda install jupyter`**), then clone this repo, and start a notebook server in the *tutorials-2016* directory.
 
