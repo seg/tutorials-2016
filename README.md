@@ -1,6 +1,6 @@
 # tutorials-2016
 
-Tutorials from [The Leading Edge](http://library.seg.org/journal/leedff) column, which started in February 2014.
+Tutorials from [The Leading Edge](http://library.seg.org/journal/leedff) column, which started in February 2014. 
 
 These are [Jupyter Notebooks](https://jupyter.org/). They can be opened and read (but not actually run) right here in GitHub, or you can install the Notebook software (e.g. with **`conda install jupyter`**), then clone this repo, and start a notebook server in the *tutorials-2016* directory.
 
@@ -35,4 +35,4 @@ Questions? [Get in touch!](mailto:matt@agilegeoscience.com)
 
 <hr />
 
-The content of the articles and of the notebooks is © the author(s) and openly licensed [CC-BY](https://creativecommons.org/licenses/by/3.0/). The code is © the author(s) and openly licensed under the terms of the Apache License 2, or under the terms specified by the author, if any.
+The content of the articles and of the notebooks is © the author(s) and openly licensed [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/). The code is © the author(s) and openly licensed under the terms of the Apache License 2, or under the terms specified by the author, if any.
